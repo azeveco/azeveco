@@ -24,7 +24,7 @@ I was also a Tech Lead in the past and it was thanks to this job that I realized
 
 ---
 
-## Techs I've worked with
+## ⌨️ Techs I've worked with
 
 **Frameworks, libraries and runtime:**
 
