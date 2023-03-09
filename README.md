@@ -7,8 +7,6 @@
 
 I'm a **back-end software engineer** in love with **Ruby On Rails**, which is my main framework.
 
-I was also a Tech Lead in the past and it was thanks to this job that I realized that software development is much more than code: **it's all about people**.
-
 ---
 
 <img align="right" alt="Coding guy" src="./dev.jpg" width="250" height="250" />
