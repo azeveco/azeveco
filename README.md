@@ -17,7 +17,7 @@ I'm a **back-end software engineer** in love with **Ruby On Rails**, which is my
 - 🌱 I enjoy learning new things and keep studying tech I already know
 - 💬 I'm always available to talk about tech-related things
 - 🏥 I was unable to work for a year because of a disease that made me unable to walk, but now I overcome that condition
-- ❕ Even though I'm a back-end developer, I do know React and "use to know" about Flutter
+- ❕ Even though I'm a back-end developer, I do know React and "used to know" Flutter
 - ⚡️ Fun-fact: I have a good eye for finding errors on anything. I'm quite good at it.
 
 ---
